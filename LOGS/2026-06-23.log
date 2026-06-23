@@ -1,0 +1,18 @@
+[2026-06-23 11:13:59,532] data_ingestion-21- root - INFO - Data fetching successfully done
+[2026-06-23 11:13:59,532] utils-21- root - INFO - reading data from database started
+[2026-06-23 11:13:59,827] utils-32- root - INFO - data fetched successfully
+[2026-06-23 11:21:07,293] data_ingestion-21- root - INFO - Data fetching successfully done
+[2026-06-23 11:21:07,293] utils-21- root - INFO - reading data from database started
+[2026-06-23 11:21:07,358] utils-29- root - INFO - Connection Established
+[2026-06-23 11:21:07,513] utils-32- root - INFO - data fetched successfully
+[2026-06-23 11:26:40,190] data_ingestion-21- root - INFO - Data fetching successfully done
+[2026-06-23 11:26:40,196] utils-21- root - INFO - reading data from database started
+[2026-06-23 11:26:40,252] utils-26- root - INFO - Connection Established
+[2026-06-23 11:30:23,916] data_ingestion-21- root - INFO - Data fetching successfully done
+[2026-06-23 11:30:23,916] utils-23- root - INFO - reading data from database started
+[2026-06-23 11:30:23,963] utils-28- root - INFO - Connection Established
+[2026-06-23 11:30:24,191] utils-31- root - INFO - data fetched successfully
+[2026-06-23 11:30:55,660] data_ingestion-21- root - INFO - Data fetching successfully done
+[2026-06-23 11:30:55,661] utils-23- root - INFO - reading data from database started
+[2026-06-23 11:30:55,706] utils-28- root - INFO - Connection Established
+[2026-06-23 11:30:55,934] utils-31- root - INFO - data fetched successfully

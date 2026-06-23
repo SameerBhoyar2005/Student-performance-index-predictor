@@ -1,0 +1,11 @@
+pandas
+fastapi
+uvicorn
+matplotlib
+numpy
+sqlalchemy
+pymysql
+pandas
+numpy
+scikit-learn
+dvc
