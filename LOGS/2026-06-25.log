@@ -1,0 +1,21 @@
+[2026-06-25 14:30:34,229] data_ingestion-22- root - INFO - Data fetching successfully done
+[2026-06-25 14:30:34,287] data_transformation-58- root - INFO - Reading data from datasets
+[2026-06-25 14:30:34,287] data_transformation-46- root - INFO - data preprocessed successfully
+[2026-06-25 14:33:46,266] data_ingestion-22- root - INFO - Data fetching successfully done
+[2026-06-25 14:33:46,314] data_transformation-58- root - INFO - Reading data from datasets
+[2026-06-25 14:33:46,314] data_transformation-46- root - INFO - data preprocessed successfully
+[2026-06-25 14:33:46,324] data_transformation-72- root - INFO - Applying data transformation
+[2026-06-25 14:33:51,298] data_ingestion-22- root - INFO - Data fetching successfully done
+[2026-06-25 14:33:51,346] data_transformation-58- root - INFO - Reading data from datasets
+[2026-06-25 14:33:51,346] data_transformation-46- root - INFO - data preprocessed successfully
+[2026-06-25 14:33:51,347] data_transformation-72- root - INFO - Applying data transformation
+[2026-06-25 14:36:53,471] data_ingestion-22- root - INFO - Data fetching successfully done
+[2026-06-25 14:36:53,518] data_transformation-58- root - INFO - Reading data from datasets
+[2026-06-25 14:36:53,519] data_transformation-46- root - INFO - data preprocessed successfully
+[2026-06-25 14:36:53,520] data_transformation-72- root - INFO - Applying data transformation
+[2026-06-25 14:36:53,554] data_transformation-80- root - INFO - Data transformed successfully
+[2026-06-25 14:41:10,214] data_ingestion-22- root - INFO - Data fetching successfully done
+[2026-06-25 14:41:10,261] data_transformation-58- root - INFO - Reading data from datasets
+[2026-06-25 14:41:10,262] data_transformation-46- root - INFO - data preprocessed successfully
+[2026-06-25 14:41:10,262] data_transformation-72- root - INFO - Applying data transformation
+[2026-06-25 14:41:10,289] data_transformation-80- root - INFO - Data transformed successfully
